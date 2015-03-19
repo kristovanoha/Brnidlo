@@ -13,6 +13,9 @@ namespace Brnidlo
             //brnidklo
 
             // druhy pridavek
+
+
+            //treti pridavek
         }
     }
 }
