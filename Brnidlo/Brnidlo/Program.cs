@@ -11,6 +11,8 @@ namespace Brnidlo
         static void Main(string[] args)
         {
             //brnidklo
+
+            // druhy pridavek
         }
     }
 }
