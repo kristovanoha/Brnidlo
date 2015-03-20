@@ -17,7 +17,7 @@ namespace Brnidlo
 
             //treti pridavek
 
-            // from AXA
+            // from AXA 22
         }
     }
 }
