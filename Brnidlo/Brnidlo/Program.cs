@@ -34,7 +34,7 @@ namespace Brnidlo
             Console.WriteLine("Prvni zapis metody upva hlavni");
             Console.WriteLine("Nová větev ");
 
-            Console.WriteLine("nov branch 2");
+            Console.WriteLine("nov branch 2 ");
         }
     }
 }
