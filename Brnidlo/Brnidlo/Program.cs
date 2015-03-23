@@ -31,7 +31,7 @@ namespace Brnidlo
         private static void testMetoda()
         {
             Console.WriteLine("Prvni zapis metody");
-            Console.WriteLine("Nová větev");
+            Console.WriteLine("Nová větev ");
         }
     }
 }
