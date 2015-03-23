@@ -23,6 +23,14 @@ namespace Brnidlo
             //from home
 
             //axa restarttt
+
+            testMetoda();
+
+        }
+
+        private static void testMetoda()
+        {
+            Console.WriteLine("Prvni zapis metody");
         }
     }
 }
