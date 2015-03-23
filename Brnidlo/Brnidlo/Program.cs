@@ -30,8 +30,12 @@ namespace Brnidlo
 
         private static void testMetoda()
         {
+<<<<<<< ours
             Console.WriteLine("Prvni zapis metody upva hlavni");
             Console.WriteLine("Nová větev ");
+=======
+            Console.WriteLine("Prvni zapis metody dalsi hlavni uprava");
+>>>>>>> theirs
         }
     }
 }
