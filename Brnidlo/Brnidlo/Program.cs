@@ -31,7 +31,7 @@ namespace Brnidlo
         private static void testMetoda()
         {
 
-            Console.WriteLine("Prvni zapis metody upva hlavni");
+            Console.WriteLine("Prvni zapis metody upva hlavni + pridavek DALSI VETve");
             Console.WriteLine("Nová větev ");
 
             Console.WriteLine("nov branch 2 ");
